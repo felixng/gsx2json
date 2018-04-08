@@ -4,6 +4,9 @@
   "description": "Google Spreadsheet to JSON API app",
   "main": "app.js",
   "author": "Nick Moreton",
+  "scripts": {
+    "start": "node app",
+  }
   "dependencies": {
     "body-parser": "^1.x.x",
     "express": "^4.x.x",
